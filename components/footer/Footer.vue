@@ -5,7 +5,7 @@
         <p>Phasellus feugiat arcu sapien, et iaculis ipsum elementum sit amet.</p>
       </div>
     <div class="column has-text-right">
-      <p>Vuemmerce | Made with ❤</p>
+      <p>Online Shop | Made with pain&stress&tears</p>
     </div>
     </div>
   </div>
