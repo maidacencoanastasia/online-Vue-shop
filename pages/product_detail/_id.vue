@@ -2,7 +2,7 @@
   <div class="section">
     <div class="card is-clearfix columns">
         <figure class="card-image is-480x480 column is-one-thirds">
-          <img src="https://bulma.io/images/placeholders/480x480.png">
+          <img src="https://cdn.ready-market.com/101/24cfa4d4//Templates/pic/img-popit-fidget-20210408-main.jpg?v=e295a559">
         </figure>
         <div class="card-content column is-two-thirds">
           <div class="card-content__title">
@@ -79,7 +79,7 @@ export default {
   validate ({ params }) {
     return /^\d+$/.test(params.id)
   },
-  
+
   data () {
     return {
       addToCartLabel: 'Add to cart',

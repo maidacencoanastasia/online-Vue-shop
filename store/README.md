@@ -8,3 +8,14 @@ Vuex Store option is implemented in the Nuxt.js framework.
 Creating a file in this directory automatically activates the option in the framework.
 
 More information about the usage of this directory in [the documentation](https://nuxtjs.org/guide/vuex-store).
+install dependencies
+yarn install
+
+#serve with hot reload at localhost:3000
+yarn dev
+
+#prepare for production via webpack
+yarn build
+
+#generate static pages via nuxt.js for static hosting
+nuxt generate

@@ -2,6 +2,7 @@ export const state = () => ({
   products: [
     {
       id: 1,
+      img:'..db/img/41heUmYaMGL.jpg',
       title: 'Product 1',
       description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit',
       price: 50,
@@ -236,7 +237,7 @@ export const mutations = {
     state.authUser = authUser
   }
 }
-/* 
+/*
 export const actions = {
   async nuxtServerInit({ commit }) {
     const res = await this.$axios.get("/api/current_user")
