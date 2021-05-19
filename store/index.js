@@ -2,7 +2,7 @@ export const state = () => ({
   products: [
     {
       id: 1,
-      img:'..db/img/41heUmYaMGL.jpg',
+      img:'img/41heUmYaMGL.jpg',
       title: 'Product 1',
       description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit',
       price: 50,
